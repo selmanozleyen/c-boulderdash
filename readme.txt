@@ -20,7 +20,7 @@ L stands for level
 -The properties except the level file includes are hard coded so you will have to re-compile it.
 
 --LEVELS--
--Some levels are highly inspired by the orginal c64 game
+-Some levels are highly inspired by the original c64 game
 -Every screen is about 24X16 block
 
 --TIP FOR LEVEL DESIGN--
