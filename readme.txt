@@ -1,4 +1,4 @@
-
+Note: Allegro 5 will be needed for compilation
 
 --GUI--
 T stands for time
