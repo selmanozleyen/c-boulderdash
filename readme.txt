@@ -1,4 +1,9 @@
-Note: Allegro 5 will be needed for compilation
+# Boulderdash C Implementation
+
+##Getting Started
+The project requires allegro5 library to compile after compilation it can work on any OS.[Here](https://github.com/liballeg/allegro_wiki/wiki) is the wiki of the library
+
+
 
 --GUI--
 T stands for time
