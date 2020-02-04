@@ -1,7 +1,7 @@
 # Boulderdash C Implementation
 
 ## Prerequisites
-* The project requires allegro5 library to compile. [Here](https://github.com/liballeg/allegro_wiki/wiki/Quickstart) isa link to install the library on any platform.
+* The project requires allegro5 library to compile. [Here](https://github.com/liballeg/allegro_wiki/wiki/Quickstart) is a link to install the library on any platform.
 * pkg-config 
 * make
 ## Compilation
@@ -28,9 +28,12 @@ make
 * If you want to test if the musics rhytm gets faster and you don't want to wait for the %90 of the level time you have to change the level0X file.
 * The properties except the level file includes are hard coded so you will have to re-compile it.
 
-### LEVELS
+### Levels
 * Some levels are highly inspired by the original Comodore 64 game.
 * Every screen is about 24X16 block.
 
-###TIP FOR LEVEL DESIGN
+### Tip for level design
 Make a csv file and edit it via excel or libre calc the copy it to your level file.
+### Screenshots
+![ScreenShot](/screenshots/1.png)
+![ScreenShot2](/screenshots/2.png)
